@@ -1,0 +1,19 @@
+.Navigation-body {
+  height: 100px;
+  display: flex;
+  background: white;
+  opacity: .5;
+}
+.Logo-div {
+  display: flex;
+  flex-grow: 1;
+  margin: auto;
+}
+
+.Navigation-content {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 2;
+  margin: auto;
+  margin-left: 40px;
+}
